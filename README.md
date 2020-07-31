@@ -1,6 +1,12 @@
 <h2 align="left">Hi 👋, I'm Adarsh Hegde</h2>
 <h4 align="left">I am a fullstack developer based in India.</h4>
 
+
+[![website](https://img.shields.io/badge/Porfolio-adarshhegde.me-ff7733?style=flat-round&logo=google-chrome)](https://adarshhegde.me/)
+
+ <a href="https://instagram.com/__adarsh.hegde__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__adarsh.hegde__" height="20" width="20" /> ```Instagram```
+</a>
+
 - ```Technologies I like to work with,```
 
 <p align="left">
