@@ -9,6 +9,8 @@
 </a>
 
 
+<!--
+
 ```Technologies I like to work with,```
 
 <p align="left">
@@ -22,6 +24,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="20" height="20"/></p>
 
+
+
+-->
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adarshhegde&show_icons=true" alt="adarshhegde" /> </p>
 
