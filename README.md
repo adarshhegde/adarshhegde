@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" style="filter:invert(1)" alt="swapnilsoni.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" style="filter:invert(1)" alt="adarshhegde.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" style="filter:invert(1)" alt="adarsh.hegde | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" style="filter:invert(1)" alt="adarsh.hegde | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" style="filter:invert(1)" alt="adarsh.hegde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
